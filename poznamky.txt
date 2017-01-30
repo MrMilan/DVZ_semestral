@@ -1,0 +1,19 @@
+kp_1003 id 70
+dni 368
+kroku 3595252
+cgm dnu 56,5194517708333 (1356 hod cca)
+cgm 14630
+
+
+
+JK1007 id 135
+dni 319
+kroku 1996371
+cgm dnu 61,643604525463 (1479 hod cca)
+cgm 17171
+
+Holubova id 7
+dni 913
+kroku 8243594
+cgm dnu 174,502022037037 (4188 hod cca)
+cgm 49321
